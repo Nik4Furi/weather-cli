@@ -8,6 +8,7 @@ A command base app, to use to find the city temperature, when you enter the city
 
 ## Demo 🪧
 
+<img src="https://user-images.githubusercontent.com/91304976/193988252-a2e1132b-14f9-4d27-99ed-78bfff3ad771.mp4" type="video/mp4" width="100" height="200"/>
 
 
 
