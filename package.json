@@ -1,0 +1,23 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "this weather app is command base, where you enter any state name to getting the temperature",
+  "main": "command.js",
+  "preferGlobal": true,
+  "bin": "./command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node command.js",
+    "dev": "nodemon command.js"
+  },
+  "author": "Nik",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
